@@ -7,6 +7,7 @@ The traditional auction system faces several challenges:\
 • Tracking each bidding process and ensuring financial settlement is complex and time-consuming.\
 • Record-keeping for both buyers and sellers throughout the settlement process is necessary.\
 BidStars addresses these issues by providing a streamlined, digital solution.\
+\
 **Project Outcomes**\
 Our project has successfully delivered:\
 • A fully functional online auction site with free user registration and login capabilities.\
@@ -14,16 +15,19 @@ Our project has successfully delivered:\
 • Categorized product listings to enhance user experience and ease of navigation.\
 • A contact form for user feedback and issue resolution.\
 • Admin access for managing auction items and ensuring smooth site operation.\
+\
 **Required Software**\
 To run the project, you will need:\
 -> Xampp server and Control Panel\
 -> VS Code (or any preferred code editor)\
 -> Web browser\
 Note: Ensure that the BidStars folder is placed inside the htdocs folder within the Xampp installation directory.\
+\
 **Setup and Usage**\
 -> Start the Xampp Control Panel and enable Apache server and MySQL.\
 -> Open your web browser and navigate to localhost/bidstars.\
 -> Explore the site and its features.\
+\
 **Key Features**\
 1) User-friendly Registration: Free and easy registration process for new users.
 Diverse Auction Categories: Wide range of product categories to cater to various interests.

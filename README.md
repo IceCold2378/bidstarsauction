@@ -1,5 +1,4 @@
 # BidStars: Online Auction Platform
-\
 BidStars is an innovative online auction website designed to bring the excitement of bidding to a wider audience. \By digitalizing the auction process, BidStars expands beyond traditional categories like art and antiques, making auctions accessible to various interests and demographics.\
 **Motivation**\
 The traditional auction system faces several challenges:\

@@ -32,7 +32,7 @@ Note: Ensure that the rough folder is placed inside the htdocs folder within the
 -> Open your web browser and navigate to localhost/rough\
 -> Explore the site and its features.\
 \
-**Key Features**\
+**Key Features**
 1) User-friendly Registration: Free and easy registration process for new users.
 Diverse Auction Categories: Wide range of product categories to cater to various interests.
 2) Real-time Bidding: Dynamic bidding system that updates in real-time.

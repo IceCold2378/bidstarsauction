@@ -21,8 +21,8 @@ To run the project, you will need:\
 -> Xampp server and Control Panel\
    Download Link:- https://www.apachefriends.org/download.html
    \
--> VS Code (or any preferred code editor)
-   \Download Link:- https://code.visualstudio.com/download
+-> VS Code (or any preferred code editor)\
+   Download Link:- https://code.visualstudio.com/download
    \
 -> Any Web browser\
 Note: Ensure that the rough folder is placed inside the htdocs folder within the Xampp installation directory.\

@@ -29,7 +29,7 @@ Note: Ensure that the rough folder is placed inside the htdocs folder within the
 \
 **Setup and Usage**\
 -> Start the Xampp Control Panel and enable Apache server and MySQL.\
--> Open your web browser and navigate to localhost/bidstars.\
+-> Open your web browser and navigate to localhost/rough\
 -> Explore the site and its features.\
 \
 **Key Features**\
